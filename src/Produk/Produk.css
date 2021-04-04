@@ -1,0 +1,54 @@
+.produk {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 1px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+    display: flex;
+}
+
+.gambar-produk {
+    height: 100%;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.gambar-produk img {
+    width: 200px;
+    height: 200px;
+}
+
+.konten-produk {
+    flex: 0;
+    text-align: left;
+}
+
+.konten-produk div.judul-produk {
+    font-size: 20px;
+    margin-right: 0px;
+    vertical-align: top;
+}
+.solid{
+    border-right: 1px black solid;
+    height: 170px;
+    width: 0px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+
+.konten-produk {
+    flex: 0;
+}
+
+.konten-produk div.judul-produk {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.konten-produk p.isi-produk {
+    font-size: 16px;
+    margin-bottom: 10px;
+}

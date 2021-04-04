@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1234512345,
+      "namaProduk": "Rice Cooker PHILIPS HD-3119",
+      "stok": 5,
+      "harga": 484900,
+      "gambar": "img/gambar1.jpg"
+    },
+    {
+      "id": 12345123490,
+      "namaProduk": "Rice Cooker Philips Hd3128",
+      "harga": 868000,
+      "gambar": "img/gambar2.jpg",
+      "stok": 5
+    },
+    {
+      "userId": 1,
+      "id": 12345123457,
+      "namaProduk": "Philips Rice Cooker Hd-3132 Merah",
+      "stok": 5,
+      "harga": 640000,
+      "gambar": "img/gambar3.jpg"
+    }
+  ]
+}
